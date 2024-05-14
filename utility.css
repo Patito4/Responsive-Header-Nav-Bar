@@ -1,0 +1,22 @@
+.d-none {
+    display: none;
+}
+.flex {
+    display: flex;
+}
+.flex-direction-c {
+    flex-direction: column;
+}
+.justify-content-sb {
+    justify-content: space-between;
+}
+.align-items-c {
+    align-items: center;
+}
+.center {
+    display: grid;
+    place-items: center;
+}
+.text-align-c {
+    text-align: center;
+}
